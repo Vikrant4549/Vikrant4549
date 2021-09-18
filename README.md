@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vikrant4549
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on web development and python projects
 - 📫 How to reach me: instagram @vikrant_rathore45
 
 <!---
