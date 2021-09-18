@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Vikrant4549
-- 👀 I’m interested in lots!!
-- 🌱 I’m currently learning lots!!
 - 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me: instagram @vikrant_rathore45
 
