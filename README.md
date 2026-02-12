@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Vikrant4549
-- 💞️ I’m looking to collaborate on web development and python projects
-- 📫 How to reach me: instagram @vikrant_rathore45
+- 👋 Hi, I’m Vikrant
 
 <!---
 Vikrant4549/Vikrant4549 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
