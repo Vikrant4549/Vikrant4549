@@ -4,17 +4,6 @@
 🏗 Cloud & DevOps Engineer  
 🚀 Building scalable and automated infrastructure on AWS  
 
-## 📚 Currently Exploring
-
-- CI/CD with GitHub Actions  
-- Advanced Terraform patterns  
-- Production-grade architectures  
-- High availability & scalability designs
-
----
-
-I like designing secure, scalable, and automated cloud architectures that solve real-world problems.
-
 ---
 
 📫 Open to collaboration on Cloud & DevOps projects.
